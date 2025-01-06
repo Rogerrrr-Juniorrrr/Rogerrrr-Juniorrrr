@@ -1,4 +1,13 @@
-## Hi there 👋
+## Rogério Junior
+
+Estou retomando meus estudos na área de tecnologia focando em me tornar desenvolvedor front-end.
+
+- :mortar_board: Formado em Técnico em Informática. (2016-2019)
+- :beginner:‎ ‎  Ex 3º Sargento do Exército Brasileiro. (2020-2025)
+- :pencil2: Estudando...
+
+
+
 
 <!--
 **Rogerrrr-Juniorrrr/Rogerrrr-Juniorrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
