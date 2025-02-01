@@ -4,6 +4,7 @@ Estou reiniciando meus estudos na área de tecnologia focando em me tornar desen
 
 - :mortar_board: Tecnólogo em Informática. (2016-2019)
 - :beginner:‎ ‎  3º Sargento do Exército Brasileiro. (2020-2025)
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - :pencil2: Estudando...
 
 
